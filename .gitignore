@@ -3,4 +3,4 @@ Project.xcconfig
 SonicPiOSC.xcodeproj
 bin
 config.make
-src
+openFrameworks-Info.plist
