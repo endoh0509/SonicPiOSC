@@ -1,0 +1,6 @@
+Makefile
+Project.xcconfig
+SonicPiOSC.xcodeproj
+bin
+config.make
+src
